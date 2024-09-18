@@ -1,5 +1,5 @@
 <?php
-include_once '../../configuracion.php';
+include_once '../../../configuracion.php';
 
 //Obtengo los datos del formulario que encapsulé
 $datos = data_submitted();
